@@ -1,7 +1,7 @@
 # SnapkitDemo
 swift 纯代码AutoLayout布局用snapKit框架实现demo 
 
- let greenView = UIView()
+        let greenView = UIView()
         greenView.backgroundColor = UIColor.greenColor()
         
         let redView = UIView()
